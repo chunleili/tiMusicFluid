@@ -20,10 +20,12 @@ taichi Hackathon 参赛：随着音乐起舞的流体仿真模拟。
 1. 频谱分析：采用Houdini预处理
 
 参考
+
 https://www.tokeru.com/cgwiki/index.php?title=HoudiniChops
 
 ![image](https://user-images.githubusercontent.com/48758868/203838795-09e5e485-b620-4a3d-8468-099aee0f5db8.png)
 
+![image](https://user-images.githubusercontent.com/48758868/203839710-fa88b8cf-a429-4332-be56-6cb9faa4017f.png)
 
 测试效果如以下视频：
 
