@@ -26,5 +26,7 @@ taichi Hackathon 参赛：随着音乐起舞的流体仿真模拟。
 商软（用于音频处理和渲染）：Houdini
 开源库（流体引擎）：zmr的SPH_Taichi https://github.com/erizmr/SPH_Taichi
 
-## 结果
+## Demo
+![image](https://user-images.githubusercontent.com/48758868/205471699-818f3244-9982-48e9-8c42-5b0934e6f815.png)
+
 https://user-images.githubusercontent.com/48758868/205440079-aa5fb6e1-3840-4419-b187-56ced810dd48.mp4
